@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M4I03VT1dpiY1FvHaUvkKCI4/yLKBLvBa8IcNZskuYc=",
+  "Source": "DinePoint.Api",
+  "BasePath": "_content/DinePoint.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

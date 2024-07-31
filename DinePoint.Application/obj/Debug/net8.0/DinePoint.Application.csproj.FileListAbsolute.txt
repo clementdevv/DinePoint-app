@@ -1,0 +1,15 @@
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\bin\Debug\net8.0\DinePoint.Application.deps.json
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\bin\Debug\net8.0\DinePoint.Application.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\bin\Debug\net8.0\DinePoint.Application.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.AssemblyInfo.cs
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.csproj.CoreCompileInputs.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\refint\DinePoint.Application.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\ref\DinePoint.Application.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\bin\Debug\net8.0\DinePoint.Domain.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\bin\Debug\net8.0\DinePoint.Domain.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoint.Application.csproj.AssemblyReference.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Application\obj\Debug\net8.0\DinePoin.F86EF1D6.Up2Date

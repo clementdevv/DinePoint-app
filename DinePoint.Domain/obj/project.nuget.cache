@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkxtQ8yCmb0VD/kDI1aDRyKbhq8k+S5yy6gTsRwcQTC17QdR2+08XQjHL51XtBtebIwXMquR3JwJVUcZ9sR7kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Domain\\DinePoint.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\san\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

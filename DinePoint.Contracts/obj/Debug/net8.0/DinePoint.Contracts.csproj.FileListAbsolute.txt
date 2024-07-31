@@ -1,0 +1,11 @@
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\bin\Debug\net8.0\DinePoint.Contracts.deps.json
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\bin\Debug\net8.0\DinePoint.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\bin\Debug\net8.0\DinePoint.Contracts.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\DinePoint.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\DinePoint.Contracts.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\DinePoint.Contracts.AssemblyInfo.cs
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\DinePoint.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\DinePoint.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\refint\DinePoint.Contracts.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\DinePoint.Contracts.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Contracts\obj\Debug\net8.0\ref\DinePoint.Contracts.dll

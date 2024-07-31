@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQHZNkw+5ypOYatTz9bvENQNCtVIiNtKgXu6CNzIL4L8ICAvrsdC8vnUMqnDVjU7Sc3ZO0g/Pclo+kgev9YZQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Application\\DinePoint.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\san\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\san\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Infrastructure.deps.json
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Infrastructure.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.AssemblyInfo.cs
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\refint\DinePoint.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\ref\DinePoint.Infrastructure.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Application.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Domain.dll
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Application.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\bin\Debug\net8.0\DinePoint.Domain.pdb
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoint.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\san\Desktop\dotnet_projects\DinePoint\DinePoint.Infrastructure\obj\Debug\net8.0\DinePoin.87AB5C4C.Up2Date

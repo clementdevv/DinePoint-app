@@ -1,0 +1,246 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ErrorOr/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "DinePoint.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DinePoint.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DinePoint.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinePoint.Application.dll": {}
+        }
+      },
+      "DinePoint.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DinePoint.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinePoint.Contracts.dll": {}
+        }
+      },
+      "DinePoint.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ErrorOr": "2.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DinePoint.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinePoint.Domain.dll": {}
+        }
+      },
+      "DinePoint.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DinePoint.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DinePoint.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinePoint.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ErrorOr/2.0.1": {
+      "sha512": "aje9lUVEAsusPFmaRcVM5EUqWBofd7hYtb9N8+ycgPYrtOzyFajMpzRgIO4uuiCllNLBc3x48+cpA+4v4koUDQ==",
+      "type": "package",
+      "path": "erroror/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "erroror.2.0.1.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+      "sha512": "fGLiCRLMYd00JYpClraLjJTNKLmMJPnqxMaiRzEBIIvevlzxz33mXy39Lkd48hu1G+N21S7QpaO5ZzKsI6FRuA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "DinePoint.Application/1.0.0": {
+      "type": "project",
+      "path": "../DinePoint.Application/DinePoint.Application.csproj",
+      "msbuildProject": "../DinePoint.Application/DinePoint.Application.csproj"
+    },
+    "DinePoint.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../DinePoint.Contracts/DinePoint.Contracts.csproj",
+      "msbuildProject": "../DinePoint.Contracts/DinePoint.Contracts.csproj"
+    },
+    "DinePoint.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DinePoint.Domain/DinePoint.Domain.csproj",
+      "msbuildProject": "../DinePoint.Domain/DinePoint.Domain.csproj"
+    },
+    "DinePoint.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DinePoint.Infrastructure/DinePoint.Infrastructure.csproj",
+      "msbuildProject": "../DinePoint.Infrastructure/DinePoint.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DinePoint.Application >= 1.0.0",
+      "DinePoint.Contracts >= 1.0.0",
+      "DinePoint.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\san\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Api\\DinePoint.Api.csproj",
+      "projectName": "DinePoint.Api",
+      "projectPath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Api\\DinePoint.Api.csproj",
+      "packagesPath": "C:\\Users\\san\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\san\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Application\\DinePoint.Application.csproj": {
+              "projectPath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Application\\DinePoint.Application.csproj"
+            },
+            "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Contracts\\DinePoint.Contracts.csproj": {
+              "projectPath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Contracts\\DinePoint.Contracts.csproj"
+            },
+            "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Infrastructure\\DinePoint.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\san\\Desktop\\dotnet_projects\\DinePoint\\DinePoint.Infrastructure\\DinePoint.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
